@@ -43,8 +43,9 @@ python script_name.py
 For any questions or further information, please reach out to Cameron Cordero via email at [cameron.cordero@med.uvm.edu](mailto:cameron.cordero@med.uvm.edu).
 
 ## License
-[Specify the license under which the code is released, if applicable]
+Pending...
 
 ## Acknowledgements
-Acknowledgment to the original authors and contributors.
-
+Special thanks to the contributors:
+- [@cameroncordero](https://github.com/cameroncordero)
+- [@EricJamesCrow](https://github.com/EricJamesCrow)
