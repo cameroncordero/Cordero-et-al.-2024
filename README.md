@@ -29,10 +29,7 @@ This repository contains the code from the study by Cordero et al. (2024). The i
 ## Usage
 This repository contains various Python scripts that can be run independently. Below is a brief description of each script:
 
-- **script1.py**: Description of what script1 does.
-- **script2.py**: Description of what script2 does.
-- **script3.py**: Description of what script3 does.
-- **...**: More scripts and their descriptions.
+- **test.py**: This will be updated soon!
 
 To run a script, simply execute it with Python:
 ```sh
