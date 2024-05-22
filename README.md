@@ -40,7 +40,7 @@ python script_name.py
 For any questions or further information, please reach out to Cameron Cordero via email at [cameron.cordero@med.uvm.edu](mailto:cameron.cordero@med.uvm.edu).
 
 ## License
-Pending...
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 Special thanks to the contributors:
