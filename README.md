@@ -44,5 +44,5 @@ Pending...
 
 ## Acknowledgements
 Special thanks to the contributors:
-- [@cameroncordero](https://github.com/cameroncordero)
+- [@cameroncordero](https://github.com/cameroncordero) (Main contributor)
 - [@EricJamesCrow](https://github.com/EricJamesCrow)
