@@ -8,7 +8,7 @@ This repository contains the code from the study by Cordero et al. (2024). The i
 - **Operating System**: Linux (preferred), but the scripts can likely be run on other operating systems with minor adjustments.
 - **Python Version**: 3.10.12
 - **Required Python Libraries**: 
-    - see requirements.txt
+    - See requirements.txt
 
 ## Installation
 1. **Clone the repository**:
